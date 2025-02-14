@@ -5,6 +5,7 @@ int main()
     int a[5]={10,20,30,40,50};
     // creating a new array 
     int ab[5];
+    // code for the reverse the array
     for(int i=0;i<5;i++)
     {
         ab[i]=a[4-i];
